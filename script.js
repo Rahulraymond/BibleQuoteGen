@@ -1,12 +1,5 @@
 // Array of Bible quotes
 const bibleQuotes = [
-  "For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. - John 3:16",
-  "The Lord is my shepherd; I shall not want. - Psalm 23:1",
-  "Trust in the Lord with all your heart, and do not lean on your own understanding. - Proverbs 3:5",
-  "I can do all things through him who strengthens me. - Philippians 4:13",
-  "Delight yourself in the Lord, and he will give you the desires of your heart. - Psalm 37:4",
-  "Be strong and courageous. Do not fear or be in dread of them, for it is the Lord your God who goes with you. He will not leave you or forsake you. - Deuteronomy 31:6",
-  "The Lord is my light and my salvation; whom shall I fear? The Lord is the stronghold of my life; of whom shall I be afraid? - Psalm 27:1",
     "For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life. - John 3:16",
     "Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go. - Joshua 1:9",
     "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight. - Proverbs 3:5-6",
@@ -960,8 +953,7 @@ const bibleQuotes = [
     "The Lord is my strength and my shield; my heart trusts in him, and he helps me. My heart leaps for joy, and with my song, I praise him. - Psalm 28:7",
     "Keep your lives free from the love of money and be content with what you have, because God has said, 'Never will I leave you; never will I forsake you.' - Hebrews 13:5",
     "The earth is the Lord's, and everything in it, the world, and all who live in it. - Psalm 24:1",
-    "But you are a chosen people, a royal priesthood, a holy nation, God’s special possession, that you may declare the praises of him who called you out of darkness into his wonderful light. - 1 Peter 2:9" ]
- 
+    "But you are a chosen people, a royal priesthood, a holy nation, God’s special possession, that you may declare the praises of him who called you out of darkness into his wonderful light. - 1 Peter 2:9"
   // Add more Bible quotes here
 ];
 
