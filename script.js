@@ -965,7 +965,7 @@ function generateQuote() {
 
   const shareInput = document.getElementById("share-input");
   const quoteText = quoteElement.textContent;
-  const shareLink = `https://rahulraymond.github.io/BibleQuoteGen/` //share?quote=${encodeURIComponent(quoteText)}`;
+  const shareLink = `https://rahulraymond.github.io/BibleQuoteGen?quote=${encodeURIComponent(quoteText)}`;
   shareInput.value = shareLink;
 }
 
